@@ -1,6 +1,6 @@
 # Simple-Calculator
 A Simple Calculator made by using Javascript, Html and Css
-A simple Calculator for general purposes.
+and also made for general purposes.
 
 ## Why use it?
 
